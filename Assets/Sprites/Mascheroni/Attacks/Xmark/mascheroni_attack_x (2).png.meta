@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 655d80290998055438201189e8e0d00c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1646335287882124891
+    second: mascheroni_attack_x (2)_0
+  - first:
+      213: 4932642833124427744
+    second: mascheroni_attack_x (2)_1
+  - first:
+      213: -7309562197655156677
+    second: mascheroni_attack_x (2)_2
+  - first:
+      213: -5907829849932917769
+    second: mascheroni_attack_x (2)_3
+  - first:
+      213: 7413461360804964691
+    second: mascheroni_attack_x (2)_4
+  - first:
+      213: 1905457681185924583
+    second: mascheroni_attack_x (2)_5
+  - first:
+      213: -8093096371076801892
+    second: mascheroni_attack_x (2)_6
+  - first:
+      213: -4108504689320202920
+    second: mascheroni_attack_x (2)_7
+  - first:
+      213: -7039130733308356521
+    second: mascheroni_attack_x (2)_8
+  - first:
+      213: 6801130049029729607
+    second: mascheroni_attack_x (2)_9
+  - first:
+      213: 5289882387980556028
+    second: mascheroni_attack_x (2)_10
+  - first:
+      213: 2559425776885044655
+    second: mascheroni_attack_x (2)_11
+  - first:
+      213: 5047626942600316175
+    second: mascheroni_attack_x (2)_12
+  - first:
+      213: -6206380839464035807
+    second: mascheroni_attack_x (2)_13
+  - first:
+      213: 4242304358315475642
+    second: mascheroni_attack_x (2)_14
+  - first:
+      213: -4505665013687663531
+    second: mascheroni_attack_x (2)_15
+  - first:
+      213: 7027577524831430436
+    second: mascheroni_attack_x (2)_16
+  - first:
+      213: -8015323504110209554
+    second: mascheroni_attack_x (2)_17
+  - first:
+      213: 7116475447323284853
+    second: mascheroni_attack_x (2)_18
+  - first:
+      213: -1252498995487578276
+    second: mascheroni_attack_x (2)_19
+  - first:
+      213: -664628470184987746
+    second: mascheroni_attack_x (2)_20
+  - first:
+      213: -1210489452100288946
+    second: mascheroni_attack_x (2)_21
+  - first:
+      213: 2395174130534597187
+    second: mascheroni_attack_x (2)_22
+  - first:
+      213: 5883491182418370486
+    second: mascheroni_attack_x (2)_23
+  - first:
+      213: 1060510026022720991
+    second: mascheroni_attack_x (2)_24
+  - first:
+      213: -4853628286732224949
+    second: mascheroni_attack_x (2)_25
+  - first:
+      213: -7580722817645658313
+    second: mascheroni_attack_x (2)_26
+  - first:
+      213: 6206808713683185541
+    second: mascheroni_attack_x (2)_27
+  - first:
+      213: -8379537177140247479
+    second: mascheroni_attack_x (2)_28
+  - first:
+      213: 1906629305243609495
+    second: mascheroni_attack_x (2)_29
+  - first:
+      213: -4764592711416571310
+    second: mascheroni_attack_x (2)_30
+  - first:
+      213: -5774352239282162664
+    second: mascheroni_attack_x (2)_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e876fb835f8d610800000000000000
+      internalID: 1646335287882124891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 216
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70240c584447440800000000000000
+      internalID: 4932642833124427744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 216
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380421b8e73f8a90800000000000000
+      internalID: -7309562197655156677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 216
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39c417d0c230ea0800000000000000
+      internalID: -5907829849932917769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 216
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592dd654d7e1e660800000000000000
+      internalID: 7413461360804964691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e560ad5aab817a10800000000000000
+      internalID: 1905457681185924583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad6f4cabb8faf80800000000000000
+      internalID: -8093096371076801892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dea0bb0c8abf6c0800000000000000
+      internalID: -4108504689320202920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758de9994ebff4e90800000000000000
+      internalID: -7039130733308356521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 144
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de6a3eeb7726e50800000000000000
+      internalID: 6801130049029729607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf61d2f3100796940800000000000000
+      internalID: 5289882387980556028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa516340f28e48320800000000000000
+      internalID: 2559425776885044655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050268f5f5cc0640800000000000000
+      internalID: 5047626942600316175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 72
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a94f262818ed9a0800000000000000
+      internalID: -6206380839464035807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24c725651bfda30800000000000000
+      internalID: 4242304358315475642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554cd36ca89a871c0800000000000000
+      internalID: -4505665013687663531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbcc27ed0e9f144a979ce3d99c723f
+      internalID: 7027577524831430436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c48175f7ddf643a7dffba1bf7af30
+      internalID: -8015323504110209554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da4b608cbd6934daa77427b1b0ac57
+      internalID: 7116475447323284853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascheroni_attack_x (2)_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62d3c99701eb447bcce1d88210271e
+      internalID: -1252498995487578276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d840560eea4fec40a82655a553151f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mascheroni_attack_x (2)_0: 1646335287882124891
+      mascheroni_attack_x (2)_1: 4932642833124427744
+      mascheroni_attack_x (2)_10: 5289882387980556028
+      mascheroni_attack_x (2)_11: 2559425776885044655
+      mascheroni_attack_x (2)_12: 5047626942600316175
+      mascheroni_attack_x (2)_13: -6206380839464035807
+      mascheroni_attack_x (2)_14: 4242304358315475642
+      mascheroni_attack_x (2)_15: -4505665013687663531
+      mascheroni_attack_x (2)_16: 7027577524831430436
+      mascheroni_attack_x (2)_17: -8015323504110209554
+      mascheroni_attack_x (2)_18: 7116475447323284853
+      mascheroni_attack_x (2)_19: -1252498995487578276
+      mascheroni_attack_x (2)_2: -7309562197655156677
+      mascheroni_attack_x (2)_3: -5907829849932917769
+      mascheroni_attack_x (2)_4: 7413461360804964691
+      mascheroni_attack_x (2)_5: 1905457681185924583
+      mascheroni_attack_x (2)_6: -8093096371076801892
+      mascheroni_attack_x (2)_7: -4108504689320202920
+      mascheroni_attack_x (2)_8: -7039130733308356521
+      mascheroni_attack_x (2)_9: 6801130049029729607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

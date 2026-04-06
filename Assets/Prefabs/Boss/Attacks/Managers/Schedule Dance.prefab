@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5910850496195530060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5454311577543657356}
+  - component: {fileID: 4980002725987527659}
+  m_Layer: 0
+  m_Name: Schedule Dance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5454311577543657356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5910850496195530060}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4980002725987527659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5910850496195530060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b92c3045fa9c05142b7d4b70a9d8ddf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 5052031305271514896, guid: 00942e6e448c8c843b2a8f1fc0483b6c, type: 3}
+  damageZonePrefabs:
+  - {fileID: 6564819408325978384, guid: a560e2ca4a39c9b4399c3b33d4b83eb6, type: 3}
+  - {fileID: 1150460045987900436, guid: 1104ad82351995342bec82d9cd839ee4, type: 3}
+  - {fileID: 6416500335546505349, guid: d879edc05d18f264d843999e6c2345a7, type: 3}
+  - {fileID: 8586373068845065958, guid: 54972b2e92bab21448d5f4239fabb70a, type: 3}
+  - {fileID: 8569523202468729299, guid: 5ac115945857572409697e58ad756599, type: 3}
+  spawnPoint: {fileID: 7724628793903814928, guid: f3b10f117989ab448999927d13bebf3f, type: 3}
+  bossCam: {fileID: 2068460876869018509, guid: 002c676f919899c46a960ebd8c55b827, type: 3}
+  playerCam: {fileID: 3012421639179112074, guid: a2a784b2ae633334b9743967a3046c2e, type: 3}
+  danceDelay: 1.5
+  delayBeforeTelegraphPhase: 1
+  telegraphDuration: 0.5
+  damageDuration: 1
